@@ -1,0 +1,43 @@
+.myrow{
+    background-color: gray;
+}
+.bar-graph-div{
+    padding:0px 20px 0px 0px;
+    background-color: white;
+    border-radius: 30px;
+}
+.secondrow{
+    margin-top: 20px;
+}
+.listdiv{
+    background-color: white;
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.rowr{
+    display: flex;
+    flex-direction: row; 
+    /* font-style: bold; */
+    font-size: .8rem;
+    padding-bottom: 20px;
+} 
+.left-div{
+    /* background-color: violet; */
+    padding-left: 30px;
+    /* background-color: yellow; */
+}
+.right-div{
+    /* background-color: whitesmoke; */
+    padding-right: 10px;
+    /* background-color: yellowgreen; */
+}
+.darktext{
+    /* background-color: violet; */
+    color: black;
+    font-weight: 700;
+}
+.lighttext{
+    /* background-color: whitesmoke; */
+    color: gray;
+}
