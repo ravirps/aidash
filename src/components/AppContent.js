@@ -29,7 +29,7 @@ const AppContent = (property) => {
               )
             )
           })}
-          {/* <Redirect from="/" to="/dashboard" /> */}
+          <Redirect from="/" to="/dashboard" />
         </Switch>
       </Suspense>
     </CContainer>
